@@ -1,4 +1,4 @@
-I research the mathematical foundations of deep learning, focusing on the approximation theory (deep neural networks overcoming the curse of dimensionality) and convergence analysis of GD optimizers. My repositories contain the code I use to run numerical simulations and support my theoretical results.
+I research the mathematical foundations of deep learning, focusing on the approximation theory (deep neural networks overcoming the curse of dimensionality) and convergence analysis of GD optimizers. My repositories contain the codes I use to run numerical simulations and support my theoretical results.
 
 ### Research highlights
 * **GD Convergence Analysis:** Proving strong iterate convergence for widely-used optimizers (Adam and beyond) under the Kurdyka-Łojasiewicz (KL) framework, establishing theoretical convergence guarantees for DNNs with arbitrary analytic activation functions.
