@@ -5,6 +5,7 @@ I research the mathematical foundations of deep learning, focusing on the approx
 
 ### Research highlights
 * **GD Convergence Analysis:** Proving strong iterate convergence for widely-used optimizers (Adam and beyond) under the Kurdyka-Łojasiewicz (KL) framework, establishing theoretical convergence guarantees for DNNs with arbitrary analytic activation functions.
+* **Overcoming Bad Local Minima:** Proving a single random initialization successfully overcomes the convergence of GD/GF to bad critical points in the training of neural networks with clipping and ReLU activations.
 * **DNN Approximation Theory:** Proving the mathematical expressivity of deep architectures and their ability to overcome the curse of dimensionality where shallow neural networks inherently fail.
 * **LLM Evaluation:** Benchmarking Large Language Models on their capacity for first-order logic.
 
