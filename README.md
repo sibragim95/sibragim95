@@ -1,6 +1,3 @@
-# Shokhrukh Ibragimov
-**PhD Candidate in Mathematics of Machine Learning | Bochum, Germany**
-
 I research the mathematical foundations of deep learning, focusing on the approximation theory (deep neural networks overcoming the curse of dimensionality) and convergence analysis of optimizers. My repositories contain the code I use to run numerical simulations and support my theoretical results.
 
 ### Research highlights
